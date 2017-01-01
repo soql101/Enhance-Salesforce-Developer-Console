@@ -1,0 +1,30 @@
+body {
+        background: #74AFAD;
+        font-family: Constantia, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida, "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia, serif;
+        font-size: 16px;
+        min-width: 450px;
+        max-width: 100%;
+        min-height: 280px;
+        max-height: 100%;
+        position: relative;
+        vertical-align: middle;
+}
+
+.popupHead {
+        margin-top: 0px;
+		margin-bottom: 0px;
+        padding-top: 40px;
+        color: aliceblue;
+}
+.dropdown {
+        float: left;
+}
+.smile {
+        font-size: 30px;
+}
+.modal-title {
+        color: #0040ff;
+}
+.saveMsg {
+        display: none;
+}
